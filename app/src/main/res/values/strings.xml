@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Passwordly</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="try_again">Please try again</string>
+    <string name="secure_mode">Activate secure mode</string>
+    <string name="password_saved">Password saved</string>
+    <string name="enter_password">Enter your password</string>
+</resources>
